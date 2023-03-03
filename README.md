@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Studying for a Masters in Ai & ML**
 
-- 👨‍💻 All of my projects are available at [Morrissimons.com](https://github.com/MorrisSimons/MorrisSimons.github.io)
+- 👨‍💻 All of my projects are available at [Morrissimons.com](https://morrissimons.github.io/)
 
 - 📫 How to reach me **Morris@morrissimons.com**
 
