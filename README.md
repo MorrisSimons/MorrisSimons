@@ -21,7 +21,6 @@
 <a href="https://kaggle.com/morrissimons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="morrissimons" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/morris_simons01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="morris_simons01" height="30" width="40" /></a>
 <a href="https://discord.gg/Morris#0441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Morris#0441" height="30" width="40" /></a>
-<a href="https://leetcode.com/MorrisSimons/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode profile" height="30" width="40" /></a>
 <a href="https://play.picoctf.org/users/MorrisSimons" target="blank"><img align="center" src="https://play.picoctf.org/static/media/picoctf-logo-horizontal-white.17fdf0dcdef08dc3396a195b95e3bc29.svg" alt="Pico profile" height="40" width="100" /> </a>
 
 </p>
