@@ -15,6 +15,22 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/morris-simons-a8b519120/](https://www.linkedin.com/in/morris-simons-a8b519120/)
 
+Here's your list with improved grammar while keeping the humor intact:  
+
+- **Tech Stack**  
+  - **Demo tools**: Figma  
+  - **Deployment of Python tools**: I like to use Streamlit.  
+  - **Deep Learning**: I like PyTorch, and I *hate* TensorFlow.  
+  - **General purpose**: Python—to do *things*.  
+  - **Low-level**: C++ and C.  
+  - **Agent frameworks**: LangChain and LangGraph.  
+  - **Web**: WordPress, React, Tailwind, CSS, PHP?, Postman ❤️ , Sinch (SMS and Mailgun), Twilio, and Chatwoot etc.
+  - **Databases**: Directus, PostgreSQL, MySQL, and MongoDB. Currently learning VectorDB (Pinecone) and Knowledge Graphs (Neo4j).  
+  - **Data prepping**: Private server with Dataiku, Label Studio, Pandas, BeautifulSoup (bs4), and regex. I also have experience with GEO data (Google and Mapbox). Currently learning **PII masking** with SOTA masking tools and NLPs. I have done alot of websracpeing in my life. 
+
+Still keeps the tone fun but makes it flow better. Let me know if you want any tweaks! 🚀
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/morris-simons-a8b519120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/morris-simons-a8b519120/" height="30" width="40" /></a>
