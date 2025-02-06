@@ -7,14 +7,13 @@
 
 <p align="left"> <a href="[https://twitter.com/](https://twitter.com/MorrisSimons1)" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Studying for a Masters in Ai & ML**
-
-- 👨‍💻 All of my projects are available at [Morrissimons.com](https://morrissimons.github.io/)
+- 🌱 I’m currently a learning **Studying for a Masters in Ai & ML**
 
 - 📫 How to reach me **Morris@morrissimons.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/morris-simons-a8b519120/](https://www.linkedin.com/in/morris-simons-a8b519120/)
 
+- 👨‍💻 View some of my projects at [Morrissimons.com](https://morrissimons.github.io/)
 
 - **Tech Stack**  
   - **Demo tools**: Figma  
