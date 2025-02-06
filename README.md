@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/morris-simons-a8b519120/](https://www.linkedin.com/in/morris-simons-a8b519120/)
 
-Here's your list with improved grammar while keeping the humor intact:  
 
 - **Tech Stack**  
   - **Demo tools**: Figma  
@@ -26,9 +25,9 @@ Here's your list with improved grammar while keeping the humor intact:
   - **Agent frameworks**: LangChain and LangGraph.  
   - **Web**: WordPress, React, Tailwind, CSS, PHP?, Postman ❤️ , Sinch (SMS and Mailgun), Twilio, and Chatwoot etc.
   - **Databases**: Directus, PostgreSQL, MySQL, and MongoDB. Currently learning VectorDB (Pinecone) and Knowledge Graphs (Neo4j).  
-  - **Data prepping**: Private server with Dataiku, Label Studio, Pandas, BeautifulSoup (bs4), and regex. I also have experience with GEO data (Google and Mapbox). Currently learning **PII masking** with SOTA masking tools and NLPs. I have done alot of websracpeing in my life. 
-
-Still keeps the tone fun but makes it flow better. Let me know if you want any tweaks! 🚀
+  - **Data prepping**: Private server with Dataiku, Label Studio, Pandas, BeautifulSoup (bs4), and regex. I also have experience with GEO data (Google and Mapbox). Currently learning **PII masking** with SOTA masking tools and NLPs. I have done alot of websracpeing in my life.
+ 
+Still Learning 🌴
 
 
 <h3 align="left">Connect with me:</h3>
