@@ -18,7 +18,7 @@
 - **Tech Stack**  
   - **Demo tools**: Figma  
   - **Deployment of Python tools**: I like to use Streamlit.  
-  - **Deep Learning**: I like PyTorch, and I *hate* TensorFlow.  
+  - **Deep Learning**: I like PyTorch, and I *dislike* TensorFlow.  
   - **Cloud Providers**: Linode <3, AWS, and Google. Docker...  
   - **General purpose**: Python—to do *things*.  
   - **Low-level**: C++ and C.  
