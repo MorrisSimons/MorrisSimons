@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently a learning **Studying for a Masters in Ai & ML**
 
-- 📫 How to reach me **Morris@morrissimons.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/morris-simons-a8b519120/](https://www.linkedin.com/in/morris-simons-a8b519120/)
 
 - 👨‍💻 View some of my projects at [Morrissimons.com](https://morrissimons.github.io/)
