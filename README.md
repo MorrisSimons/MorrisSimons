@@ -15,16 +15,16 @@
 
 - **Tech Stack**  
   - **Demo tools**: Figma  
-  - **Deployment of Python tools**: I like to use Streamlit.  
+  - **Deployment of Python tools**: I like to use Streamlit.
   - **Deep Learning**: I like PyTorch, and I *dislike* TensorFlow.  
   - **Cloud Providers**: Linode <3, AWS, and Google. Docker...  
   - **General purpose**: Python—to do *things*.  
-  - **Low-level**: C++ and C.  
+  - **Low-level**: C++ and C.
   - **Agent frameworks**: LangChain and LangGraph.  
   - **Marketing**: Google Ads, Bing, Google Display, Snapchat, Instagram/Facebook (Meta), and Pinterest. Handling marketing budgets of over $35,000 USD.  
-  - **Web**: WordPress, React, Tailwind, CSS, PHP?, Postman ❤️, Stripe ❤️, Google Tag Manager/Analytics (Optimize A/B testing), Sinch (SMS and Mailgun), Twilio, Chatwoot, etc.  
-  - **Databases**: Directus, PostgreSQL, MySQL, and MongoDB. Currently learning VectorDB (Pinecone) and Knowledge Graphs (Neo4j).  
-  - **Data Prepping**: Private server with Dataiku, Label Studio, Pandas, BeautifulSoup (bs4), and regex. I also have experience with GEO data (Google and Mapbox). Currently learning **PII masking** with SOTA masking tools and NLPs. I have done a lot of web scraping in my life.  
+  - **Web**: WordPress, React, Tailwind, CSS, PHP?, Postman ❤️, Stripe ❤️, Google Tag Manager/Analytics (Optimize A/B testing), Sinch (SMS and Mailgun), Twilio, Chatwoot, etc.  -> Lovable ❤️
+  - **Databases**: Directus, PostgreSQL, MySQL, Supabase and MongoDB. Learning GraphDB(SPARQL) and Knowledge Graphs (Neo4j).  
+  - **Data Prepping**: Private server with Dataiku, Label Studio, Pandas, BeautifulSoup (bs4), and regex. I also have experience with GEO data (Google and Mapbox). **PII masking** with SOTA masking tools and NLPs with similar performance.. I have done a lot of web scraping in my life.  
 
 Still Learning 🌴  
 
