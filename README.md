@@ -17,7 +17,15 @@
   - **Databases**: Directus, PostgreSQL, MySQL, Supabase and MongoDB. Currently Learning Knowledge Graphs, GraphDB(SPARQL) and Property graphs (Neo4j).  
   - **Data Prepping**: Private server with Dataiku, Label Studio, Pandas, BeautifulSoup (bs4), and regex. I also have experience with GEO data (Google and Mapbox). **PII masking** with SOTA masking tools and NLPs with similar performance.. I have done a lot of web scraping in my life.  
 
-Still Learning 🌴  
+#### Cool Things I’ve Built (Outside of GitHub)
+
+- **FastighetsKollen** – [Interactive Property Map](https://fastighetskollen.morrissimons.com/map)  
+- **Passtider-Snabbt.se** – Appointment finder almost [200 reviews on Trustpilot](https://www.trustpilot.com/review/passtider-snabbt.se?languages=all)  
+- **Citas-Rapidas** – Used by 300+ customers, [read their reviews here](https://www.trustpilot.com/review/citas-rapidas.com.mx)
+
+I love to learn from first principles 🌴
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
