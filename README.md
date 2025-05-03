@@ -28,6 +28,9 @@ I love to learn from first principles 🌴
 <a href="https://www.hackerrank.com/morris_simons01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="morris_simons01" height="30" width="40" /></a>
 <a href="https://discord.gg/Morris#0441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Morris#0441" height="30" width="40" /></a>
 <a href="https://play.picoctf.org/users/MorrisSimons" target="blank"><img align="center" src="https://play.picoctf.org/static/media/picoctf-logo-horizontal-white.17fdf0dcdef08dc3396a195b95e3bc29.svg" alt="Pico profile" height="40" width="100" /> </a>
+<a href="https://stackoverflow.com/questions/79584413/langchain-runnable-stuck-in-a-loop/79605187#79605187" target="_blank">
+  <img align="center" src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.svg" alt="Stack Overflow Answer" height="40" width="100" />
+</a>
 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morrissimons&label=Profile%20views&color=0e75b6&style=flat" alt="morrissimons" /> </p>
