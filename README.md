@@ -23,8 +23,6 @@ I love to learn from first principles 🌴
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/questions/79584413/langchain-runnable-stuck-in-a-loop/79605187#79605187" target="_blank">
-  <img align="center" src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png" alt="Stack Overflow Answer" height="40" width="40" /> </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/morris-simons-a8b519120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/morris-simons-a8b519120/" height="30" width="40" /></a>
 <a href="https://kaggle.com/morrissimons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="morrissimons" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/morris_simons01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="morris_simons01" height="30" width="40" /></a>
