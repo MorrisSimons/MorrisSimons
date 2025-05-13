@@ -5,7 +5,7 @@
 - 👨‍💻 View some of my projects at [Morrissimons.com](https://morrissimons.github.io/)
 
 - **Tech Stack**  
-  - **Demo tools**: Figma  
+  - **Demo tools**: Figma and Lovable for MVPs ❤️
   - **Deployment of Python tools**: I like to use Streamlit.
   - **Deep Learning**: Mostly PyTorch.
   - **Cloud Providers**: Linode <3, AWS, and Google. Docker...  
@@ -13,7 +13,7 @@
   - **Low-level**: C++ and C.
   - **Agent frameworks**: LangChain and LangGraph.  
   - **Marketing**: Google Ads, Bing, Google Display, Snapchat, Instagram/Facebook (Meta), and Pinterest. Handling marketing budgets of over $35,000 USD.  
-  - **Web**: WordPress, React, Tailwind, CSS, PHP?, Postman ❤️, Stripe ❤️, Google Tag Manager/Analytics (Optimize A/B testing), Sinch (SMS and Mailgun), Twilio, Chatwoot, etc. and Lovable for MVPs ❤️
+  - **Web**: WordPress, React, Tailwind, CSS, PHP?, Postman ❤️, Stripe ❤️, Google Tag Manager/Analytics (Optimize A/B testing), Sinch (SMS and Mailgun), Twilio, Chatwoot, etc. 
   - **Databases**: Directus, PostgreSQL, MySQL, Supabase and MongoDB. Currently Learning Knowledge Graphs, GraphDB(SPARQL) and Property graphs (Neo4j).  
   - **Data Prepping**: Private server with Dataiku, Label Studio, Pandas, BeautifulSoup (bs4), and regex. I also have experience with GEO data (Google and Mapbox). **PII masking** with SOTA masking tools and NLPs with similar performance.. I have done a lot of web scraping in my life.  
 
