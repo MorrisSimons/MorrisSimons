@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Ai & Machine Learning student from Sweden</h3>
 
 - 🌱 I’m currently **Studying for a Masters in Ai & ML**
-- 👨‍💻 View some of my projects at [Morrissimons.com](https://morrissimons.github.io/)
+- 👨‍💻 View some of my projects at [Morrissimons.com](https://morrissimons.com/)
 
 - **Tech Stack**  
   - **Demo tools**: Figma and Lovable for MVPs ❤️
