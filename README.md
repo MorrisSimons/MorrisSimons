@@ -8,7 +8,7 @@
   - **Demo tools**: Figma and Lovable for MVPs ❤️
   - **Deployment of Python tools**: I like to use Streamlit.
   - **Deep Learning**: Mostly PyTorch.
-  - **Cloud Providers**: Linode <3, AWS, and Google. Docker...  
+  - **Cloud Providers**: Linode <3, AWS, and Google. Docker
   - **General purpose**: Python—to do *things*.  
   - **Low-level**: C++ and C.
   - **Agent frameworks**: LangChain and LangGraph.  
